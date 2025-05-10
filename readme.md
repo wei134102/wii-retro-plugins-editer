@@ -1,4 +1,5 @@
 # Wii Retro Game Plugins Editor
+![en](https://github.com/user-attachments/assets/bb3eafd1-928e-40f3-9b71-41c0c65a36db)![zhcn](https://github.com/user-attachments/assets/e6825182-f510-4eab-a55b-7f24f9b38bea)
 
 ## 安装与使用指南 (中文)
 
